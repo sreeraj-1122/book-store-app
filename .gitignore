@@ -1,0 +1,11 @@
+#nodejs
+node_modules/
+
+#express
+
+build/
+
+#react js
+
+/build
+/node_modules
